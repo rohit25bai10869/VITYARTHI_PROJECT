@@ -5,8 +5,6 @@ This is a simple console-based Railway Ticket Booking System written in Python. 
 Project Details
 Project Title: Railway Ticket Booking System (Console Based)
 
-Course/Institute: CSE Mini Project, VIT Bhopal University
-
 Student Name: Rohit Choudhary
 
 Registration Number: 25BAI10869
